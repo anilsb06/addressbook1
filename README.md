@@ -1,5 +1,5 @@
 Addressbook Tutorial
-=======================
+===========================
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started - not an example on how application should be
@@ -9,7 +9,7 @@ designed. Please note this example uses and requires Java 8 to work.
 
 
 Running the example from the command line
---------------------------------------------------------
+------------------------------------------------------------
 ```
 $ mvn jetty:run
 ```
@@ -18,7 +18,7 @@ Open [http://localhost:8080/](http://localhost:8080/)
 
 
 Importing in IntelliJ IDEA 14
-------------------------------
+-----------------------------------
 These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https://www.jetbrains.com/idea/
 
 To get the project up and running in IDEA, do:
