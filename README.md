@@ -3,7 +3,7 @@ Addressbook Tutorial
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started - not an example on how application should be
-designed. Please note this example uses and requires Java 8 to work.
+designed. Please note this example uses and requires Java 8 to work......
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
@@ -33,7 +33,7 @@ To get the project up and running in IDEA, do:
 You should now have a Jetty server running on localhost:8080. Navigate to http://localhost:8080 to play with the application
 
 Importing in NetBeans 8
--------------------------
+----------------------------
 These instructions were tested on NetBeans 8.0.2. You can get it from https://www.netbeans.org
 
 To checkout and run the project in NetBeans, do:
@@ -46,11 +46,11 @@ To checkout and run the project in NetBeans, do:
 You should now have a GlassFish server running on localhost:8080 and a browser tab should also be automatically opened with this location
 
 Importing in Eclipse
----------------------------
+------------------------------
 These instructions were tested on Eclipse IDE for Java EE Developers Luna SR2. You can get it from http://eclipse.org/downloads/
 
 To checkout and run the project in Eclipse, do:
-- File -> Import...
+- File -> Import.......
 - Check out Maven Projects from SCM
 - Choose Git from SCM menu
   - If you do not see "Git" in the SCM menu, click "Find more SCM connectors in the m2e Marketplace" and install "m2e-egit". Restart Eclipse and start over.
